@@ -1,0 +1,7 @@
+npc-data:
+  npc-1:
+    cooldown: 0
+    right-click-commands:
+    - '[player] realm'
+    left-click-commands: []
+    price: 0

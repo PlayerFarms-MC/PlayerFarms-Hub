@@ -1,0 +1,42 @@
+# Citizens NPC Storage
+
+
+
+
+
+
+last-created-npc-id: 1
+npc:
+  '1':
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTYyNDc5OTI3MjgwNCwKICAicHJvZmlsZUlkIiA6ICJhN2EwZWRhODNiZTQ0NmU0OWEyYjQwZjMxNTE0OGJiMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZWtvX0ZyYW5kcmUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTg3NGUzZDM0OWU0MzY4NzgxZWFkZWE0ZmUxNWUwMDIyZjczMjVjOTNkNDYyNGJlMDllNjM3NDAxZDBhZmNhNCIKICAgIH0KICB9Cn0=
+      cached-skin-uuid-name: neko_frandre
+      cached-skin-uuid: a7a0eda8-3be4-46e4-9a2b-40f315148bb0
+      player-skin-name: neko_frandre
+      player-skin-signature: ofOV5dpOJU0O2ChUv4Lz/hhZ0j35kp3sH23891olob48hy4rGud9LmhckF7HEtkkZZ7JkE8itBAJFRYLaUjzw3jHwmja7PPMNJLvjDC+8y4KxAO0RjRHhEW/daaUvC28W3wQdq9wUnn+7+HcDCJDawdLteWk7d3N0EZEURot2Zvcz9tH5UJIg1bj9ySucoAVvsln707m2mJjIwWc2IES6rZ1NyFHkMmhfni1Bf/a5hdXDPw3VgJFOIv0gVYiuih682eonRff1AU3mIPPtqegOdZWcXHRebjlb3+xDxlE57ntOkIz6aM3re9yVKvYPxU3Uh8vNW6f5IkD8TiNmOumwAVHmR9A5UuEQqrpXA1uOUPdmXeEexpOUMh26+wj4bf259zEC1xICpjb0EJr7/dIH5Ts1L0HDw/lQSr9l7HXkF0uz50Qrdv7HNWrkRYHiggaTj2jcZkauadQKMykUtD6F4+Ie0wB/Q0I+n3SRSOMc4iF18HpQwz1VvBGCCSSfiXkeOBKdJKSLxdwEvC52XsMxkB4/6cHuUo65W6Upxk1T7BB0HPnF0yqBjVv5omzgHDjx6lvBxYsohIGT6xgvtD88DOTZD9K+d+L/q1UM7KFqBYYtMont2GdTWKcoevhoNbsq0VP0jfWIfmTTvnePxQK6uUv6fndkaG8fehgKgWIKss=
+    name: §dNavigator
+    uuid: ef403a9a-c842-489c-bfef-215d028ba38c
+    traits:
+      spawned: true
+      gravity:
+        enabled: false
+      type: PLAYER
+      lookclose:
+        range: '5.0'
+        enabled: true
+        realisticlooking: false
+      location:
+        world: world
+        x: '-2.3852'
+        y: '4.0'
+        z: '-2.3923'
+        yaw: '140.7271728515625'
+        pitch: '0.0'
+      owner:
+        owner: Pitan_MAD
+        uuid: dcdb8e88-440b-4857-a0aa-6c345805ec2c
+    traitnames: inventory,type,equipment,gravity,owner,lookclose,location,mounttrait,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

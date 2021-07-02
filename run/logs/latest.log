@@ -1,0 +1,232 @@
+[23:30:45] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[23:30:45] [Server thread/INFO]: Loading properties
+[23:30:45] [Server thread/INFO]: Default game type: SURVIVAL
+[23:30:45] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-dcd1643-e60fc34 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[23:30:46] [Server thread/INFO]: Debug logging is disabled
+[23:30:46] [Server thread/INFO]: Server Ping Player Sample Count: 12
+
+[23:30:46] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:30:46] [Server thread/INFO]: Generating keypair
+[23:30:46] [Server thread/INFO]: Starting Minecraft server on *:25566
+[23:30:46] [Server thread/INFO]: Using default channel type
+[23:30:46] [Server thread/ERROR]: Ambiguous plugin name `ViaVersion' for files `plugins\ViaVersion-4.0.0.jar' and `plugins\ViaVersion-2.2.3.jar' in `plugins'
+[23:30:46] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[23:30:47] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.7;dd00bb1
+[23:30:47] [Server thread/INFO]: [JsonConfig] Loading JsonConfig v1.0.0
+[23:30:47] [Server thread/INFO]: [PlayerFarms] Loading PlayerFarms v1.0.0
+[23:30:47] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[23:30:47] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[23:30:47] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.0.0
+[23:30:47] [Server thread/INFO]: [ViaVersion] ViaVersion 4.0.0 is now loaded, injecting!
+[23:30:47] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.12 -> 1.13 mappings...
+[23:30:47] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+[23:30:47] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+[23:30:47] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.14 -> 1.15 mappings...
+[23:30:47] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.15 -> 1.16 mappings...
+[23:30:47] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+[23:30:48] [Server thread/INFO]: [Vault] Loading Vault v1.7.2-b107
+[23:30:48] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.0.0
+[23:30:48] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.16.2 -> 1.17 mappings...
+[23:30:48] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[23:30:48] [Via-Mappingloader-5/INFO]: [ViaBackwards] Loading 1.10 -> 1.9.4 mappings...
+[23:30:48] [Via-Mappingloader-5/INFO]: [ViaBackwards] Loading 1.11 -> 1.10 mappings...
+[23:30:48] [Via-Mappingloader-5/INFO]: [ViaBackwards] Loading 1.13 -> 1.12 mappings...
+[23:30:48] [Via-Mappingloader-1/INFO]: [ViaBackwards] Loading 1.13.2 -> 1.13 mappings...
+[23:30:48] [Via-Mappingloader-1/INFO]: [ViaBackwards] Loading 1.14 -> 1.13.2 mappings...
+[23:30:48] [Via-Mappingloader-1/INFO]: [ViaBackwards] Loading 1.15 -> 1.14 mappings...
+[23:30:48] [Via-Mappingloader-1/INFO]: [ViaBackwards] Loading 1.16 -> 1.15 mappings...
+[23:30:48] [Via-Mappingloader-5/INFO]: [ViaBackwards] Loading 1.16.2 -> 1.16 mappings...
+[23:30:48] [Via-Mappingloader-5/INFO]: [ViaBackwards] Loading 1.17 -> 1.16.2 mappings...
+[23:30:48] [Server thread/INFO]: [BungeeTabListPlus] Loading BungeeTabListPlus v3.4.4
+[23:30:48] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.2.2-SNAPSHOT;8eeab68
+[23:30:48] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v2.0.0
+[23:30:48] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.24-SNAPSHOT (build 1605)
+[23:30:48] [Server thread/INFO]: [LunaChat] Loading LunaChat v2.8.9
+[23:30:48] [Server thread/INFO]: [ProtectionLib] Loading ProtectionLib v0.9.8
+[23:30:48] [Server thread/INFO]: [GadgetsMenu] Loading GadgetsMenu v4.4.9
+[23:30:48] [Server thread/INFO]: [CitizensCMD] Loading CitizensCMD v2.5.1
+[23:30:48] [Server thread/INFO]: [Vault] Enabling Vault v1.7.2-b107
+[23:30:49] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[23:30:49] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[23:30:49] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[23:30:49] [Server thread/INFO]: [Vault] Enabled Version 1.7.2-b107
+[23:30:49] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v2.0.0
+[23:30:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:30:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:30:49] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[23:30:49] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[23:30:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:30:49] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[23:30:49] [Server thread/INFO]: Preparing level "world"
+[23:30:49] [Server thread/INFO]: -------- World Settings For [world] --------
+[23:30:49] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:30:49] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:30:49] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[23:30:49] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:30:49] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:30:49] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:30:49] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:30:49] [Server thread/INFO]: View Distance: 10
+[23:30:49] [Server thread/INFO]: Mob Spawn Range: 4
+[23:30:49] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:30:49] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:30:49] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:30:49] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:30:49] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:30:49] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:30:49] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:30:49] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[23:30:49] [Server thread/INFO]: Vine Growth Modifier: 100%
+[23:30:49] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[23:30:49] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[23:30:49] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:30:49] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[23:30:49] [Server thread/INFO]: Random Lighting Updates: false
+[23:30:49] [Server thread/INFO]: Max TNT Explosions: 100
+[23:30:49] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:30:49] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[23:30:49] [Server thread/INFO]: Structure Info Saving: true
+[23:30:50] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[23:30:50] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:30:50] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:30:50] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[23:30:50] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:30:50] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:30:50] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:30:50] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:30:50] [Server thread/INFO]: View Distance: 10
+[23:30:50] [Server thread/INFO]: Mob Spawn Range: 4
+[23:30:50] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:30:50] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:30:50] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:30:50] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:30:50] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:30:50] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:30:50] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:30:50] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[23:30:50] [Server thread/INFO]: Vine Growth Modifier: 100%
+[23:30:50] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[23:30:50] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[23:30:50] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:30:50] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[23:30:50] [Server thread/INFO]: Random Lighting Updates: false
+[23:30:50] [Server thread/INFO]: Max TNT Explosions: 100
+[23:30:50] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:30:50] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[23:30:50] [Server thread/INFO]: Structure Info Saving: true
+[23:30:50] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[23:30:50] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:30:50] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:30:50] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[23:30:50] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:30:50] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:30:50] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:30:50] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:30:50] [Server thread/INFO]: View Distance: 10
+[23:30:50] [Server thread/INFO]: Mob Spawn Range: 4
+[23:30:50] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:30:50] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:30:50] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:30:50] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:30:50] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:30:50] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:30:50] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:30:50] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[23:30:50] [Server thread/INFO]: Vine Growth Modifier: 100%
+[23:30:50] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[23:30:50] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[23:30:50] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:30:50] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[23:30:50] [Server thread/INFO]: Random Lighting Updates: false
+[23:30:50] [Server thread/INFO]: Max TNT Explosions: 100
+[23:30:50] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:30:50] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[23:30:50] [Server thread/INFO]: Structure Info Saving: true
+[23:30:50] [Server thread/INFO]: Preparing start region for level 0 (Seed: 8271744710716305643)
+[23:30:51] [Server thread/INFO]: Preparing start region for level 1 (Seed: -5311465742398528049)
+[23:30:51] [User Authenticator #1/INFO]: UUID of player Pitan_MAD is dcdb8e88-440b-4857-a0aa-6c345805ec2c
+[23:30:52] [Server thread/INFO]: Preparing spawn area: 81%
+[23:30:52] [Server thread/INFO]: Preparing start region for level 2 (Seed: -5311465742398528049)
+[23:30:52] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.7;dd00bb1
+[23:30:53] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[23:30:53] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R1 as the Bukkit adapter
+[23:30:53] [Server thread/WARN]: [WorldEdit] WorldEdit has detected you are using Java 7 (based on detected version 16.0.1).
+[23:30:53] [Server thread/WARN]: [WorldEdit] WorldEdit will stop supporting Java less than version 8 in the future, due to Java 7 being EOL since April 2015. Please update your server to Java 8.
+[23:30:53] [Server thread/INFO]: [JsonConfig] Enabling JsonConfig v1.0.0
+[23:30:53] [Server thread/INFO]: [JsonConfig] JsonConfig is enabled!
+[23:30:53] [Server thread/INFO]: [PlayerFarms] Enabling PlayerFarms v1.0.0
+[23:30:53] [Server thread/INFO]: [PlayerFarms] PlayerFarms is enabled!
+[23:30:53] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[23:30:53] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[23:30:53] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[23:30:53] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[23:30:53] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[23:30:53] [Server thread/INFO]: [Vault] [Vault][Chat] PermissionsEx_Chat hooked.
+[23:30:53] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.0.0
+[23:30:53] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.0.0
+[23:30:53] [Server thread/INFO]: [BungeeTabListPlus] Enabling BungeeTabListPlus v3.4.4
+[23:30:53] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.2.2-SNAPSHOT;8eeab68
+[23:30:54] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[23:30:54] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[23:30:54] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[23:30:54] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[23:30:54] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[23:30:54] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[23:30:54] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[23:30:54] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[23:30:54] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[23:30:54] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[23:30:54] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[23:30:54] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[23:30:54] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[23:30:54] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[23:30:54] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[23:30:54] [Server thread/INFO]: [WorldGuard] Loading region data...
+[23:30:54] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.24-SNAPSHOT (build 1605)
+[23:30:54] [Server thread/ERROR]: [Citizens] Missing preferred location bundle.
+[23:30:54] [Server thread/INFO]: [Citizens] Could not fetch NMS field modifiers: [[modifiers.
+[23:30:54] [Server thread/INFO]: [Citizens] Could not fetch NMS field bY: [[Cannot invoke "java.lang.reflect.Field.setInt(Object, int)" because "net.citizensnpcs.util.NMS.MODIFIERS_FIELD" is null.
+[23:30:54] [Server thread/INFO]: [Citizens] Could not fetch NMS field b: [[Cannot invoke "java.lang.reflect.Field.setInt(Object, int)" because "net.citizensnpcs.util.NMS.MODIFIERS_FIELD" is null.
+[23:30:54] [Server thread/INFO]: [Citizens] Could not fetch entity id mapping fields: Cannot invoke "java.lang.reflect.Field.get(Object)" because "field" is null.
+[23:30:55] [Server thread/INFO]: [LunaChat] Enabling LunaChat v2.8.9
+[23:30:55] [Server thread/INFO]: [ProtectionLib] Enabling ProtectionLib v0.9.8
+[23:30:55] [Server thread/INFO]: [ProtectionLib] Protection lib hook into: WorldGuard 6.2.2-SNAPSHOT;8eeab68
+[23:30:55] [Server thread/INFO]: [GadgetsMenu] Enabling GadgetsMenu v4.4.9
+[23:30:55] [Server thread/INFO]: [GadgetsMenu] ------------------------------------------------------
+[23:30:55] [Server thread/INFO]: [GadgetsMenu]         GadgetsMenu [Free] 4.4.9 is loading...
+[23:30:55] [Server thread/INFO]: [GadgetsMenu]   [server: git-Spigot-dcd1643-e60fc34 (MC: 1.12.2)]
+[23:30:55] [Server thread/INFO]: [GadgetsMenu]                Plugin by Yap Zhen Yie.
+[23:30:55] [Server thread/INFO]: [GadgetsMenu]              Date Modified: 16 April 2021
+[23:30:55] [Server thread/INFO]: [GadgetsMenu]                            
+[23:30:55] [Server thread/INFO]: [GadgetsMenu]              Initializing module v1_12_R1
+[23:30:55] [Server thread/INFO]: [GadgetsMenu] ------------------------------------------------------
+[23:30:55] [Thread-9/WARN]: [PermissionsEx] The updater could not find any files for the project id 31279
+[23:30:57] [Server thread/INFO]: [GadgetsMenu] Connecting to SQLite database...
+[23:30:57] [Server thread/INFO]: [GadgetsMenu] Successfully connected to SQLite database!
+[23:30:57] [Server thread/INFO]: [CitizensCMD] Enabling CitizensCMD v2.5.1
+[23:30:57] [Server thread/INFO]: [0;37;1m[[0;36;22mCitizens[0;31;1mCMD[0;37;1m][m [0;36;22mCitizens[0;31;1mCMD [0;30;1m[3m2.5.1 [0;30;1mBy [0;36;22mMateus Moreira [0;31;1m@LichtHund[m
+
+[23:30:57] [Server thread/ERROR]: [CitizensCMD] Plugin CitizensCMD v2.5.1 has failed to register events for class me.mattstudios.citizenscmd.listeners.NPCListener because net/citizensnpcs/api/event/NPCCloneEvent does not exist.
+[23:30:57] [Server thread/INFO]: [0;37;1m[[0;36;22mCitizens[0;31;1mCMD[0;37;1m][m [0;37;22mUsing [0;32;1mEnglish [0;37;22mmessages![m
+
+[23:30:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:30:57] [Server thread/INFO]: Done (8.425s)! For help, type "help" or "?"
+[23:30:57] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.12.2 (340)
+[23:30:57] [Server thread/WARN]: [ViaVersion] This version of Minecraft is extremely outdated and support for it has reached its end of life. You will still be able to run Via on this Minecraft version, but we are unlikely to provide any further fixes or help with problems specific to legacy Minecraft versions. Please consider updating to give your players a better experience and to avoid issues that have long been fixed.
+[23:30:57] [Craft Scheduler Thread - 1/INFO]: [GadgetsMenu] [mChecking for updates...[m
+
+[23:30:58] [Craft Scheduler Thread - 1/INFO]: [GadgetsMenu] No update was found, you are running the latest version.[m
+
+[23:30:58] [Server thread/INFO]: [Citizens] Could not fetch NMS field modifiers: [[modifiers.
+[23:30:58] [Server thread/INFO]: [Citizens] Loaded 1 NPCs.
+[23:30:58] [Server thread/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[23:30:58] [Craft Scheduler Thread - 1/INFO]: [Vault] Checking for Updates ... 
+[23:30:58] [Craft Scheduler Thread - 1/WARN]: [Vault] Stable Version: 1.7.3 is out! You are still running version: 1.7.2
+[23:30:58] [Craft Scheduler Thread - 1/WARN]: [Vault] Update at: https://dev.bukkit.org/projects/vault
+[23:30:58] [Server thread/INFO]: Pitan_MAD[/127.0.0.1:53297] logged in with entity id 13 at ([world]-4.56555390971186, 4.0, -5.058749505403846)
+[23:31:52] [Server thread/INFO]: Pitan_MAD lost connection: Disconnected
+[23:31:52] [Server thread/INFO]: Pitan_MAD has left the lobby.
+[23:32:07] [User Authenticator #2/INFO]: UUID of player Pitan_MAD is dcdb8e88-440b-4857-a0aa-6c345805ec2c
+[23:32:07] [Server thread/INFO]: Pitan_MAD[/127.0.0.1:50763] logged in with entity id 18 at ([world]1.4576405751108659, 3.9375, -3.804218664274112)
+[23:32:24] [Server thread/INFO]: Pitan_MAD lost connection: Disconnected
+[23:32:25] [Server thread/INFO]: Pitan_MAD has left the lobby.

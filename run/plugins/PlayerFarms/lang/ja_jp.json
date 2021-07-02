@@ -1,0 +1,90 @@
+{
+  "navi" : {
+    "title" : "PlayerFarms Navigator",
+    "serverlist" : {
+      "title" : "§3Server List Page ",
+      "name" : "§b現在人気なサーバー",
+      "lore" : "§7現在人気のあるサーバーを表示します。"
+    },
+    "myserver" : {
+      "title" : "'s Server",
+      "name" : "§bあなたの§dFarm",
+      "lore" : "§7サーバーの設定を表示します。"
+    },
+    "presentcode" : {
+      "name" : "§aプレゼントコードを使用する",
+      "lore" : "§7入手したコードを入力してプレゼントを貰います！"
+    }
+  },
+  "serverlist" : {
+    "allfarms" : {
+      "name" : "§eすべてのFarmsを見る"
+    },
+    "online" : {
+      "name" : "§eオンライン",
+      "lore" : "§e投票順に変更する"
+    },
+    "random" : {
+      "name" : "§bランダムなサーバー",
+      "lore" : "§7ランダムなサーバーへ行きます。"
+    }
+  },
+  "myserver" : {
+    "start" : {
+      "name" : "§aサーバーを起動します"
+    },
+    "rename" : {
+      "name" : "§bサーバーをリネームします",
+      "lore" : "§7サーバーをリネームするにはここをクリックしてください。"
+    },
+    "flykick" : {
+      "name" : "§aフライキックをトグルします",
+      "lore" : "§7フライキックは:"
+    },
+    "cmdblock" : {
+      "name" : "§aコマンドブロックをトグルします",
+      "lore" : "§7コマンドブロックは:"
+    },
+    "backup" : {
+      "name" : "§aバックアップする",
+      "lore" : "§eサーバーのデータをバックアップ"
+    },
+    "delete" : {
+      "name" : "§cサーバーのデータを消します"
+    }
+  },
+  "servermanager" : {
+    "title" : "Server Manager",
+    "make" : {
+      "name" : "§aサーバーを作ります"
+    }
+  },
+  "selecttype" : {
+    "title" : "Select Type",
+    "flat" : {
+      "name" : "§eFlatワールド"
+    },
+    "normal" : {
+      "name" : "§e普通のワールド"
+    },
+    "void" : {
+      "name" : "§eVoidワールド"
+    },
+    "upload" : {
+      "name" : "§eアップロード"
+    }
+  },
+  "messages" : {
+    "server_starting" : "§bサーバーの準備をしています。",
+    "server_started" : "§aサーバーの準備が完了しました。",
+    "server_connect" : "§bに接続しています。",
+    "other_server_starting" : "§bそのサーバーは現在起動中です。",
+    "server_start_failed" : "§cサーバーの起動に失敗しました。再度お試しください。",
+    "server_eula_agreed" : "§aEulaに同意しました。"
+  },
+  "item" : {
+    "realm_menu" : "§dサーバーの管理§7（右クリック）",
+    "gadget_menu" : "§aガジェットメニュー§7（右クリック）",
+    "crate_box" : "§b報酬箱§7（右クリック）"
+  }
+}
